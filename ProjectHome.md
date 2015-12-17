@@ -1,0 +1,1 @@
+Chat para LAN sin necesidad de servidor, al conectarse, un usuario envía un mensaje multicast a toda la red para permitir el inicio de la interaccion
